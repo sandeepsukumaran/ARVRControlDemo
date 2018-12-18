@@ -1,6 +1,6 @@
 # ARVRControlDemo
 This repository contains instructions and sample scripts to set up an AR-VR scene with virtual button control, using Vuforia and Unity.
-Demo video will be uploaded soon.
+Demo video is available on [YouTube](https://youtu.be/AWn4yc9eQdk).
 Image target base obtained from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solar_system.jpg).
 Image target marker obtained from this [blog](https://blog.theknightsofunity.com/wp-content/uploads/2016/11/marker_1.png).
 Steps inferred from [Vuforia Unity samples](https://developer.vuforia.com/downloads/samples).
